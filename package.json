@@ -1,0 +1,19 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langral/libraryModal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/langral/libraryModal/issues"
+  },
+  "homepage": "https://github.com/langral/libraryModal#readme",
+  "description": ""
+}
